@@ -1,11 +1,13 @@
 ---
 name: ilustrar-aulas
-description: Ilustra aulas em PowerPoint de qualquer assunto. Analisa o conteúdo slide a slide, escreve prompts e incorpora imagens, esquemas, mapas, gráficos ou fluxogramas em uma cópia do PPTX, com guia de produção. Use quando a solicitação envolver enriquecer visualmente uma apresentação didática existente.
+description: Ilustra aulas em PowerPoint de qualquer assunto. Analisa slide a slide, escreve prompts e incorpora imagens e diagramas em uma cópia ilustrada com guia de produção.
 ---
 
 # Ilustrar aulas
 
 Identifique a apresentação de origem, o público, o objetivo da aula e a identidade visual indicada. Use os slides e materiais de apoio como fontes de conteúdo. Preserve o original e salve os resultados na pasta da aula.
+
+Use as ferramentas de imagem, diagramação e edição de PPTX disponíveis na sessão. Quando a geração de imagens estiver indisponível, produza esquemas com ferramentas de desenho ou use figuras com licença verificável. Se a sessão não puder editar o PPTX, entregue a análise, os prompts e as instruções de inserção e informe qual arquivo ficou pendente.
 
 ## 1. Analisar slide a slide
 

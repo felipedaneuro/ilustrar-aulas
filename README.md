@@ -19,7 +19,7 @@ Se já houver uma cópia instalada, compare as versões antes de substituir. [In
 
 ### Claude no navegador ou no app
 
-No clone, gere o ZIP abaixo. Ele contém a pasta da skill e o script de auditoria.
+No clone, gere o ZIP abaixo. Ele contém a skill, o guia de produção visual e o script de auditoria.
 
 ```sh
 git archive --format=zip --output=ilustrar-aulas.zip HEAD ilustrar-aulas
@@ -29,11 +29,15 @@ No Claude, abra **Customize → Skills → + → Create skill → Upload a skill
 
 ## Como usar
 
-Abra o projeto ou anexe o PPTX. Informe o público e a identidade visual, quando houver.
+Abra o projeto ou anexe o PPTX. Se a direção estiver aberta, a skill sugere caminhos visuais e pergunta sobre estilo, cores, tema e preferências. Anexe exemplos para inspirar a composição ou indique as imagens que devem entrar nos slides.
 
 > Use a skill ilustrar-aulas para ilustrar esta aula de Geografia para o 7º ano. Preserve o conteúdo e proponha mapas, comparações ou esquemas onde a imagem ajudar a explicar o assunto. Entregue o PPTX ilustrado e os prompts de cada figura.
 
 A subpasta `Versão ilustrada` reúne a cópia do PowerPoint, as figuras e o guia `Análise slide a slide e prompts.md`. Quando houver imagens publicadas, o guia registra as fontes, as licenças e eventuais adaptações. Exames clínicos entram somente quando ajudam a explicar o conteúdo da aula. A criação de imagens e a edição do PPTX dependem dos recursos disponíveis na sessão. Se a edição estiver indisponível, a skill entrega a análise, os prompts e as instruções de inserção.
+
+## Opções de produção visual
+
+Quando há geração de imagens na sessão, a skill pode usá-la para fotografias, aquarelas e ilustrações editoriais. No Claude, a criação por código inclui SVG. A geração de uma foto ou pintura a partir de um prompt depende de um gerador separado. Three.js é uma opção quando profundidade, rotação ou cortes explicam o assunto. A cena pode ter uma vista SVG ou PNG para o slide e um arquivo interativo à parte, quando pertinente. [Recursos visuais do Claude](https://support.claude.com/pt/articles/9002504-claude-pode-produzir-imagens) · [Guia de produção visual](ilustrar-aulas/references/producao-visual.md)
 
 ## Auditoria do PowerPoint
 

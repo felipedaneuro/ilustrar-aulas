@@ -33,7 +33,7 @@ Abra o projeto ou anexe o PPTX. Informe o público e a identidade visual, quando
 
 > Use a skill ilustrar-aulas para ilustrar esta aula de Geografia para o 7º ano. Preserve o conteúdo e proponha mapas, comparações ou esquemas onde a imagem ajudar a explicar o assunto. Entregue o PPTX ilustrado e os prompts de cada figura.
 
-A subpasta `Versão ilustrada` reúne a cópia do PowerPoint, as figuras e o guia `Análise slide a slide e prompts.md`. Quando houver imagens publicadas, o guia registra as fontes, as licenças e eventuais adaptações. A criação de imagens e a edição do PPTX dependem dos recursos disponíveis na sessão. Se a edição estiver indisponível, a skill entrega a análise, os prompts e as instruções de inserção.
+A subpasta `Versão ilustrada` reúne a cópia do PowerPoint, as figuras e o guia `Análise slide a slide e prompts.md`. Quando houver imagens publicadas, o guia registra as fontes, as licenças e eventuais adaptações. Exames clínicos entram somente quando ajudam a explicar o conteúdo da aula. A criação de imagens e a edição do PPTX dependem dos recursos disponíveis na sessão. Se a edição estiver indisponível, a skill entrega a análise, os prompts e as instruções de inserção.
 
 ## Auditoria do PowerPoint
 

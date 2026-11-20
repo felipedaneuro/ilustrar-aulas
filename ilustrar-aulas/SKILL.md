@@ -21,7 +21,7 @@ Para cada nova figura, registre o assunto, o objetivo didático, o estilo, o enq
 
 - **Imagem editorial** · escolha o estilo adequado ao assunto e ao público. Gere a arte sem texto e insira as legendas na apresentação.
 - **Diagramas, mapas e gráficos** · componha os rótulos e conectores com ferramentas de desenho ou formas do PowerPoint. Use os dados fornecidos para escalas, valores, unidades e tendências. Identifique reconstruções, exemplos fictícios e desenhos conceituais.
-- **Material publicado** · em fotografias, obras, documentos, mapas e exames, confirme autoria, fonte, licença e eventuais condições de reutilização. Registre adaptações. Quando usar exames clínicos, descreva somente os achados sustentados pela fonte e indique se os quadros mostram o mesmo caso ou casos independentes.
+- **Material publicado** · em fotografias, obras, documentos, mapas e exames, confirme autoria, fonte, licença e eventuais condições de reutilização. Registre adaptações. Inclua exames clínicos somente quando ajudarem a interpretar um achado ou a cumprir outro objetivo didático da aula. Nesses casos, descreva os achados sustentados pela fonte e indique se os quadros mostram o mesmo caso ou casos independentes.
 
 Exemplo de prompt. “Crie uma ilustração horizontal para uma aula de Geografia do 7º ano sobre o efeito da vegetação no escoamento superficial. Mostre duas encostas de mesma inclinação sob chuva equivalente, uma vegetada e outra com solo exposto. Use setas da mesma cor para representar a água, com espessuras coerentes com a comparação qualitativa. Use estilo de aquarela didática, contornos finos e fundo claro. Reserve espaço abaixo dos painéis para os rótulos do professor. Evite números sem dados de origem.”
 
